@@ -1,0 +1,35 @@
+Cómo Citar este Programa
+Título del Modelo: Flechas circulando 
+
+Autor Original: Uri Wilensky
+
+Adaptación: Imanol Garnelo Pérez (FLACSO México)
+
+Descripción: Este programa de NetLogo simula 40 agentes (flechas) moviéndose en un círculo perfecto. La simulación está adaptada para permitir el ajuste interactivo del radio inicial y la distancia de avance por tick a través de sliders. El ángulo de giro por tick se calcula automáticamente para asegurar que el movimiento mantenga la forma circular.
+
+Reconocimiento y Agradecimientos
+Este modelo es una adaptación del trabajo original de Uri Wilensky, creador de NetLogo y director del Center for Connected Learning and Computer-Based Modeling de la Universidad de Northwestern. La versión adaptada aquí tiene fines educativos y de demostración para el Taller Práctico de NetLogo para el Laboratorio de Metodos de la FLACSO-MEXICO.
+
+Formato de Cita Sugerido (Estilo APA 7)
+Si utilizas este modelo o partes de él en tu investigación, presentación o documento, te sugerimos citarlo de la siguiente manera:
+
+Modelo Base:
+
+Wilensky, U. (2020). NetLogo Circles model (Integrative Understanding). Center for Connected Learning and Computer-Based Modeling, Northwestern University. Recuperado de https://context.reverso.net/traduccion/ingles-espanol/available+from.
+
+Adaptación:
+
+Garnelo Pérez, I. (2025). Adaptación de Flechas Circulando (NetLogo) [Software de simulación]. En Laboratorio de Métodos, FLACSO México.
+
+Ejemplo en una Sección de Metodología o Apéndice
+"Para ilustrar los principios del modelado basado en agentes, utilizamos una versión adaptada del modelo Circles de Wilensky (2020), en la cual los parámetros de movimiento se ajustaron para crear una demostración interactiva (Garnelo Pérez, 2025)."
+
+Contacto del Adaptador:
+
+Nombre: Imanol Garnelo Pérez
+
+Correo Electrónico: imanol.garnelo@estudiante-flacso.mx
+
+Afiliación: Estudiante de Doctorado en Investigación Social, FLACSO México.
+
+Ciudad de México, CDMX, México  
